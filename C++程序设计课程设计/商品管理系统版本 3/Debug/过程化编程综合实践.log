@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(购物篮管理系统版本 2.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  过程化编程综合实践.vcxproj -> F:\source\C++程序设计课程设计\商品管理系统版本 3\Debug\购物篮管理系统版本 3.exe
