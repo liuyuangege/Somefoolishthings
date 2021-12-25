@@ -101,7 +101,7 @@ void CommodityManage::viewCommodity(string name)const {
 	pCommodity->output();
 }
 void CommodityManage::viewAllCommodities()const {
-	cout << "商品种类:" << pCommodities.size() << endl;
+	cout << "商品数量:" << pCommodities.size() << endl;
 	if (pCommodities.size() == 0)
 		return;
 		cout << "指定排序方式(0-商品 id,1-商品名称,2-商品净价):";

@@ -1,5 +1,8 @@
-﻿  function.cpp
+﻿  CommodityManage.cpp
+  NormalCommodity.cpp
+  function.cpp
 F:\source\C++程序设计课程设计\商品管理系统版本 5\function.cpp(23,17): warning C4101: “zhejiu”: 未引用的局部变量
 F:\source\C++程序设计课程设计\商品管理系统版本 5\function.cpp(23,25): warning C4101: “specialdiscount”: 未引用的局部变量
+  正在生成代码...
 F:\source\C++程序设计课程设计\商品管理系统版本 5\function.cpp(97): warning C4715: “chooseFindMethod”: 不是所有的控件路径都返回值
   商品管理系统版本 5.vcxproj -> F:\source\C++程序设计课程设计\商品管理系统版本 5\Debug\商品管理系统版本 5.exe
